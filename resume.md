@@ -3,7 +3,7 @@ https://curtisbridges.com / curtis@curtisbridges.com / 603.733.4424
 
 ## About
 <!-- My rough version -->
-Seasoned software developer with over 20 years of experience in turning ideas into successful products. I can bring my 12 years of web development background and my knowledge of Node.js, Express.js, Angular, and MongoDB (MEAN stack) as well as a history of good user interface design to a team, delivering a quality product to market.
+Seasoned software developer with over 20 years of experience in turning ideas into successful products. I bring 12 years of web development background and my knowledge of Node.js, Express.js, Angular, and MongoDB (MEAN stack) as well as a history of user interface design, delivering a quality product.
 
 ## Skills
 **HTML, CSS, JavaScript, Node.js, Express.js, Angular, NoSQL, JSON, REST, Linux, Docker, AWS**
@@ -63,8 +63,8 @@ _BAE / Sanders_ 1997-1999 **C, C++, ASM, UNIX, Linux**
 - University of Maine, 1993 - 1997, Bachelor of Science, Computer Science
 
 ## Honors
-2nd Place, Advanced Computing Machinery (ACM) Programming Contest (1997)
-3rd Place, Advanced Computing Machinery (ACM) Programming Contest (1996)
-5th Place, Advanced Computing Machinery (ACM) Team Regional Programming Contest (1997)
-Code published in _Foundations of Internet and World Wide Web Programming_ (1996)
-Co-Authored application endorsed by Apple and featured in MacWeek, July 1996
+- 2nd Place, Advanced Computing Machinery (ACM) Programming Contest (1997)
+- 3rd Place, Advanced Computing Machinery (ACM) Programming Contest (1996)
+- 5th Place, Advanced Computing Machinery (ACM) Team Regional Programming Contest (1997)
+- Code published in _Foundations of Internet and World Wide Web Programming_ (1996)
+- Co-Authored application endorsed by Apple and featured in MacWeek, July 1996
